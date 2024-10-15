@@ -1,0 +1,4 @@
+Average scores (rounded to 2 decimal places):
+chinese: 82.60
+math: 81.00
+english: 81.80
